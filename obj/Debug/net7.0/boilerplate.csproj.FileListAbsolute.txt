@@ -1,0 +1,15 @@
+/home/klungo/devs/c#/boilerplate/bin/Debug/net7.0/boilerplate
+/home/klungo/devs/c#/boilerplate/bin/Debug/net7.0/boilerplate.deps.json
+/home/klungo/devs/c#/boilerplate/bin/Debug/net7.0/boilerplate.runtimeconfig.json
+/home/klungo/devs/c#/boilerplate/bin/Debug/net7.0/boilerplate.dll
+/home/klungo/devs/c#/boilerplate/bin/Debug/net7.0/boilerplate.pdb
+/home/klungo/devs/c#/boilerplate/obj/Debug/net7.0/boilerplate.csproj.AssemblyReference.cache
+/home/klungo/devs/c#/boilerplate/obj/Debug/net7.0/boilerplate.GeneratedMSBuildEditorConfig.editorconfig
+/home/klungo/devs/c#/boilerplate/obj/Debug/net7.0/boilerplate.AssemblyInfoInputs.cache
+/home/klungo/devs/c#/boilerplate/obj/Debug/net7.0/boilerplate.AssemblyInfo.cs
+/home/klungo/devs/c#/boilerplate/obj/Debug/net7.0/boilerplate.csproj.CoreCompileInputs.cache
+/home/klungo/devs/c#/boilerplate/obj/Debug/net7.0/boilerplate.dll
+/home/klungo/devs/c#/boilerplate/obj/Debug/net7.0/refint/boilerplate.dll
+/home/klungo/devs/c#/boilerplate/obj/Debug/net7.0/boilerplate.pdb
+/home/klungo/devs/c#/boilerplate/obj/Debug/net7.0/boilerplate.genruntimeconfig.cache
+/home/klungo/devs/c#/boilerplate/obj/Debug/net7.0/ref/boilerplate.dll
